@@ -1,4 +1,4 @@
-#Weather App using React + Tailwind
+# Weather App using React + Tailwind
 
 git clone "url"
 
